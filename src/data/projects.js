@@ -49,4 +49,14 @@ export const projects = [
     image: "/images/portfolio/drift-journal.png",
     tags: ["Blog", "Editorial design", "Content"],
   },
+  {
+    id: 5,
+    title: "Mohammad A. Wasaya",
+    url: "https://portfolio-update-lake.vercel.app/",
+    category: "Personal portfolio",
+    description:
+      "A personal portfolio for a supply chain and logistics leader, featuring an animated KPI dashboard hero, core expertise, a career timeline, credentials and a contact section.",
+    image: "/images/portfolio/mohammad-wasaya.png",
+    tags: ["Portfolio", "Career timeline", "Dark mode"],
+  },
 ];
